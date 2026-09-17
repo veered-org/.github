@@ -9,8 +9,9 @@ Free browser games and small open-source tools. Nothing to install.
 | Game | |
 |---|---|
 | **[Merlot](https://merlot.veered.org)** | Real-time team strategy for 1 to 12 players, with bots in the empty seats. [Source](https://github.com/veered-org/merlot) |
-| [Maroon Isles Quest](https://quest.veered.org) | Two-player co-op text adventure |
-| [Swarm](https://swarm.veered.org) | Two-player strategy |
+| [Maroon Isles Quest](https://quest.veered.org) | Parody co-op text adventure for two players: a proof of concept. [Source](https://github.com/veered-org/maroon-isles-quest) |
+| [Swarm](https://swarm.veered.org) | Two-player strategy. [Source](https://github.com/veered-org/swarm) |
+| Trifecta | Card game for 2 or more players; online version in the works. [Rules](https://github.com/veered-org/trifecta) |
 
 All games: **[veered.org](https://veered.org)**
 
