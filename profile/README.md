@@ -13,7 +13,7 @@ These are tools I built with [Claude Code](https://claude.com/claude-code) and u
 - **[Merlot: Real-Time Multiplayer Tank Game](https://veered.org/merlot/)** (Merlot): a real-time strategy game for 1 to 12 players · [Play](https://merlot.veered.org)
 - **[Maroon Isles Quest: Two-Player Co-op Text Adventure](https://veered.org/maroon/)** (Maroon): Maroon Isles Quest, a two-player co-op text adventure (parody) · [Play](https://quest.veered.org)
 - **[Carmine (Swarm): Two-Player Real-Time Strategy Game](https://veered.org/carmine/)** (Carmine): Swarm Command, the two-player prototype for Merlot · [Play](https://swarm.veered.org)
-- **[Trifecta: Card Game Rules (War, Egyptian Ratscrew, 1-2-3-4)](https://veered.org/trifecta/)** (Trifecta): a card game I made up, on its way to becoming an online game
+- **[Trifecta: Card Game Rules (War, Egyptian Rat, 1-2-3-4)](https://veered.org/trifecta/)** (Trifecta): a card game I made up, on its way to becoming an online game
 - **[Veered Menu: DOS-Style Browser Game Launcher](https://veered.org/veered-menu/)** (Veered menu): the DOS-style menu at veered.org, and Oversimplified Breakout
 
 ## Tools
