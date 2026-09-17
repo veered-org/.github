@@ -4,6 +4,8 @@ Free browser games and small open-source tools. Nothing to install. Contact: [su
 
 These are tools I built with [Claude Code](https://claude.com/claude-code) and use myself, shared in case they help others too. Most are MIT licensed; Crimson (consultation booking) and the KDE Connect fix (Scarlet) are GNU GPL v3. My law practice: [PatentLawNY.com](https://PatentLawNY.com). Jewish life and aliyah: [PatentlyJewish.com](https://PatentlyJewish.com).
 
+> **Please test before relying on these tools.** They are shared as-is, with no warranty. They work on my own computers, but your system may differ. If something doesn't work, you can ask Claude (or another AI coding assistant) to look into it and let me know what you found, or simply email support@veered.org and I'll look into it.
+
 ### ▶ [Play Merlot now](https://merlot.veered.org) (free, in your browser, 1 to 12 players)
 
 ## Games
