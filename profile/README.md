@@ -2,6 +2,8 @@
 
 Free browser games and small open-source tools. Nothing to install.
 
+### ▶ [Play Merlot now](https://merlot.veered.org) (free, in your browser, 1 to 12 players)
+
 ## Play
 
 | Game | |
