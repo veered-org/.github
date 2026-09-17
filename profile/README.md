@@ -18,4 +18,4 @@ All games: **[veered.org](https://veered.org)**
 - a panel word-of-the-day in your choice of language
 - a weather readout of temperature and how well sweat can still cool you
 - a music-folder player
-- SMS and calling through voip.ms, with WebRTC echo cancellation and noise suppression
+- SMS and calling (any SIP provider; texts via voip.ms, Twilio, SignalWire or your own phone), with WebRTC echo cancellation and noise suppression
