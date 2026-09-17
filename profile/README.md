@@ -17,8 +17,11 @@ All games: **[veered.org](https://veered.org)**
 
 ## Tools
 
-**[cosmic-tools](https://github.com/veered-org/cosmic-tools)**: add-ons for the COSMIC desktop (Pop!_OS):
-- a panel word-of-the-day in your choice of language
-- a weather readout of temperature and how well sweat can still cool you
-- a music-folder player
-- SMS and calling (any SIP provider; texts via voip.ms, Twilio, SignalWire or your own phone), with WebRTC echo cancellation and noise suppression
+### Desktop & home
+- **[cosmic-tools](https://github.com/veered-org/cosmic-tools)**: add-ons for the COSMIC desktop (Pop!_OS). A panel word of the day in your choice of 9 languages, a weather readout of how well sweat can still cool you, a music-folder player, SMS and calls (any SIP provider; texts via voip.ms, Twilio, SignalWire or your own phone), a screenshot translator, and a mouse button remapper.
+- **[shabbat-tools](https://github.com/veered-org/shabbat-tools)**: a Shabbat & Yom Tov TV board, and a scheduler for fridge Sabbath mode, smart plugs and switches.
+
+### Work & web
+- **[patent-pdf-tools](https://github.com/veered-org/patent-pdf-tools)**: fix PDF page sizes for USPTO Patent Center, and shrink scanned prior art.
+- **[community-directory](https://github.com/veered-org/community-directory)**: a self-hosted, moderated phone and business directory (PHP + SQLite).
+- **[braintree-checkout](https://github.com/veered-org/braintree-checkout)**: a drop-in Braintree payment page. Enter your own keys.
