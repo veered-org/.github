@@ -2,7 +2,7 @@
 
 Free browser games and small open-source tools. Nothing to install. Contact: [support@veered.org](mailto:support@veered.org)
 
-These are tools I built with [Claude Code](https://claude.com/claude-code) and use myself, shared in case they help others too. Most are MIT licensed; Crimson (consultation booking) and the KDE Connect patch in Redshift are GNU GPL v3. My law practice: [PatentLawNY.com](https://PatentLawNY.com). Jewish life and aliyah: [PatentlyJewish.com](https://PatentlyJewish.com).
+These are tools I built with [Claude Code](https://claude.com/claude-code) and use myself, shared in case they help others too. Most are MIT licensed; Crimson (consultation booking) and the KDE Connect fix (Scarlet) are GNU GPL v3. My law practice: [PatentLawNY.com](https://PatentLawNY.com). Jewish life and aliyah: [PatentlyJewish.com](https://PatentlyJewish.com).
 
 ### ▶ [Play Merlot now](https://merlot.veered.org) (free, in your browser, 1 to 12 players)
 
@@ -16,8 +16,15 @@ These are tools I built with [Claude Code](https://claude.com/claude-code) and u
 
 ## Tools
 
-### Desktop
-- **[Redshift](https://veered.org/redshift/)**: tools for the COSMIC desktop. *Why Redshift? Light from distant galaxies shifts toward red: the color of the cosmos, for the COSMIC desktop.* ([GitHub](https://github.com/veered-org/redshift-cosmic-tools))
+### Desktop: any Linux
+- **[Cardinal](https://veered.org/cardinal/)**: a shuffle music player for any folder, with media keys and resume. *Why Cardinal? A red, and a songbird.* ([GitHub](https://github.com/veered-org/cardinal-music-player))
+- **[Cherry](https://veered.org/cherry/)**: SMS and phone calls from your Linux desktop, with any SIP provider. *Why Cherry? The classic cherry-red telephone.* ([GitHub](https://github.com/veered-org/cherry-sms-calls))
+- **[Rufous](https://veered.org/rufous/)**: map extra mouse buttons to keys, shortcuts and commands. *Why Rufous? A red-brown found in the names of small animals, like the rufous mouse lemur.* ([GitHub](https://github.com/veered-org/rufous-mouse-remap))
+
+### Desktop: COSMIC
+- **[Redshift](https://veered.org/redshift/)**: COSMIC panel labels (word of the day in your language, sweat-cooling weather, world clocks). *Why Redshift? Light from distant galaxies shifts toward red: the color of the cosmos, for the COSMIC panel.* ([GitHub](https://github.com/veered-org/redshift-cosmic-panel-bar))
+- **[Rouge](https://veered.org/rouge/)**: drag over text anywhere on screen and read a translation. *Why Rouge? The word for red in another language.* ([GitHub](https://github.com/veered-org/rouge-screen-translator))
+- **[Scarlet](https://veered.org/scarlet/)**: a KDE Connect fix so your phone's link to COSMIC recovers by itself. *Why Scarlet? The scarlet thread that ties two things together: here, your phone to your computer.* ([GitHub](https://github.com/veered-org/scarlet-kdeconnect-fix))
 
 ### Jewish life
 - **[Flame](https://veered.org/flame/)**: Shabbos Board for Shabbos & Yom Tov, and a Sabbath-mode device scheduler. *Why Flame? The red-orange of a sunset and of Shabbos candles.* ([GitHub](https://github.com/veered-org/flame-shabbos-board))
