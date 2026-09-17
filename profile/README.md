@@ -2,6 +2,8 @@
 
 Free browser games and small open-source tools. Nothing to install. Contact: [support@veered.org](mailto:support@veered.org)
 
+These are tools I built with [Claude Code](https://claude.com/claude-code) and use myself, shared in case they help others too. Most are MIT licensed; consultation-booking and the KDE Connect patch are GNU GPL v3. My law practice: [PatentLawNY.com](https://PatentLawNY.com). Jewish life and aliyah: [PatentlyJewish.com](https://PatentlyJewish.com).
+
 ### ▶ [Play Merlot now](https://merlot.veered.org) (free, in your browser, 1 to 12 players)
 
 ## Play
