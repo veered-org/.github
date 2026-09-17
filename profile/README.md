@@ -25,3 +25,4 @@ All games: **[veered.org](https://veered.org)**
 - **[patent-pdf-tools](https://github.com/veered-org/patent-pdf-tools)**: fix PDF page sizes for USPTO Patent Center, and shrink scanned prior art.
 - **[community-directory](https://github.com/veered-org/community-directory)**: a self-hosted, moderated phone and business directory (PHP + SQLite).
 - **[braintree-checkout](https://github.com/veered-org/braintree-checkout)**: a drop-in Braintree payment page. Enter your own keys.
+- **[consultation-booking](https://github.com/veered-org/consultation-booking)**: add-ons for Easy!Appointments. Shabbat and Yom Tov blackouts, reminder emails, time-zone and reschedule fixes, and spam scoring.
