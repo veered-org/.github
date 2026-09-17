@@ -1,6 +1,6 @@
 # Veered
 
-Free browser games and small open-source tools. Nothing to install.
+Free browser games and small open-source tools. Nothing to install. Contact: [contact@veered.org](mailto:contact@veered.org)
 
 ### ▶ [Play Merlot now](https://merlot.veered.org) (free, in your browser, 1 to 12 players)
 
