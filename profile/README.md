@@ -6,25 +6,26 @@ These are tools I built with [Claude Code](https://claude.com/claude-code) and u
 
 ### ▶ [Play Merlot now](https://merlot.veered.org) (free, in your browser, 1 to 12 players)
 
-## Play
+## Games
 
-| Game | |
-|---|---|
-| **[Merlot](https://merlot.veered.org)** | Real-time team strategy for 1 to 12 players, with bots in the empty seats. [Source](https://github.com/veered-org/merlot) |
-| [Maroon Isles Quest](https://quest.veered.org) | Parody co-op text adventure for two players: a proof of concept. [Source](https://github.com/veered-org/maroon-isles-quest) |
-| [Swarm](https://swarm.veered.org) | Two-player strategy. [Source](https://github.com/veered-org/carmine-swarm) |
-| Trifecta | Card game for 2 or more players; online version in the works. [Rules](https://github.com/veered-org/trifecta) |
-
-All games: **[veered.org](https://veered.org)**
+- **[Merlot](https://veered.org/merlot/)**: a real-time strategy game for 1 to 12 players · [Play](https://merlot.veered.org)
+- **[Maroon](https://veered.org/maroon/)**: Maroon Isles Quest, a two-player co-op text adventure (parody) · [Play](https://quest.veered.org)
+- **[Carmine](https://veered.org/carmine/)**: Swarm Command, a two-player real-time strategy game · [Play](https://swarm.veered.org)
+- **[Trifecta](https://veered.org/trifecta/)**: card game rules; online version in the works
+- **[Veered menu](https://veered.org/veered-menu/)**: the DOS-style menu at veered.org, and Oversimplified Breakout
 
 ## Tools
 
-### Desktop & home
-- **[cosmic-tools](https://github.com/veered-org/redshift-cosmic-tools)**: add-ons for the COSMIC desktop (Pop!_OS). A panel word of the day in your choice of 9 languages, a weather readout of how well sweat can still cool you, a music-folder player, SMS and calls (any SIP provider; texts via voip.ms, Twilio, SignalWire or your own phone), a screenshot translator, and a mouse button remapper.
-- **[shabbat-tools](https://github.com/veered-org/flame-shabbos-board)**: a Shabbat & Yom Tov TV board, and a scheduler for fridge Sabbath mode, smart plugs and switches.
+### Desktop
+- **[Redshift](https://veered.org/redshift/)**: tools for the COSMIC desktop. *Why Redshift? Light from distant galaxies shifts toward red: the color of the cosmos, for the COSMIC desktop.* ([GitHub](https://github.com/veered-org/redshift-cosmic-tools))
 
-### Work & web
-- **[patent-pdf-tools](https://github.com/veered-org/vermilion-patent-pdf-tools)**: fix PDF page sizes for USPTO Patent Center, and shrink scanned prior art.
-- **[community-directory](https://github.com/veered-org/terracotta-community-directory)**: a self-hosted, moderated phone and business directory (PHP + SQLite).
-- **[braintree-checkout](https://github.com/veered-org/redwood-braintree-checkout)**: a drop-in Braintree payment page. Enter your own keys.
-- **[consultation-booking](https://github.com/veered-org/crimson-consultation-booking)**: add-ons for Easy!Appointments. Shabbat and Yom Tov blackouts, reminder emails, time-zone and reschedule fixes, and spam scoring.
+### Jewish life
+- **[Flame](https://veered.org/flame/)**: Shabbos Board for Shabbos & Yom Tov, and a Sabbath-mode device scheduler. *Why Flame? The red-orange of a sunset and of Shabbos candles.* ([GitHub](https://github.com/veered-org/flame-shabbos-board))
+- **[Terracotta](https://veered.org/terracotta/)**: self-hosted community phone and business directory. *Why Terracotta? The red clay of the tile roofs on a neighborhood's homes.* ([GitHub](https://github.com/veered-org/terracotta-community-directory))
+
+### Work
+- **[Vermilion](https://veered.org/vermilion/)**: patent PDF tools (USPTO page-size fixer and scanned-PDF shrinker). *Why Vermilion? The red ink of official seals and stamps.* ([GitHub](https://github.com/veered-org/vermilion-patent-pdf-tools))
+- **[Redwood](https://veered.org/redwood/)**: a Braintree checkout page where you enter your own keys. *Why Redwood? A tree whose name is a red, for Braintree.* ([GitHub](https://github.com/veered-org/redwood-braintree-checkout))
+- **[Crimson](https://veered.org/crimson/)**: consultation booking add-ons for Easy!Appointments. *Why Crimson? The red that marks special days on a calendar.* ([GitHub](https://github.com/veered-org/crimson-consultation-booking))
+
+Everything: **[veered.org/code](https://veered.org/code/)**
