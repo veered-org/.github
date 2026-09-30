@@ -36,6 +36,8 @@ These are tools I built with [Claude Code](https://claude.com/claude-code) and u
 
 ### Work
 - **[USPTO Patent Center PDF Fixer and Scanned-PDF Shrinker](https://veered.org/uspto-pdf-tools/)** (Vermilion): patent PDF tools (USPTO page-size fixer and scanned-PDF shrinker) ([GitHub](https://github.com/veered-org/vermilion-patent-pdf-tools))
+- **[Information Disclosure Statement Generator](https://veered.org/ids-generator/)** (Sienna): turns a list of patent numbers into an IDS Word document, dates and inventors looked up ([GitHub](https://github.com/veered-org/sienna-ids-generator))
+- **[Patent Drawing Labeler](https://veered.org/patent-drawing-labeler/)** (Alizarin): reference numerals, leader lines and a parts list for patent drawings, in the browser; Claude can do the clicking. [Open it](https://veered.org/patent-drawing-labeler/app/) ([GitHub](https://github.com/veered-org/alizarin-patent-drawing-labeler))
 - **[Braintree Drop-in Payment Page for PHP](https://veered.org/braintree-checkout/)** (Redwood): a Braintree checkout page where you enter your own keys ([GitHub](https://github.com/veered-org/redwood-braintree-checkout))
 - **[Easy!Appointments Add-ons: Blackouts, Reminders and Spam Filter](https://veered.org/easyappointments-addons/)** (Crimson): stripped-down form of Easy!Appointments with automatic blockout times, reminders, spam filter, and custom links to pay and join from email ([GitHub](https://github.com/veered-org/crimson-consultation-booking))
 
